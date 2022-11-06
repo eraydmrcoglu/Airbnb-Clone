@@ -14,6 +14,6 @@ module.exports = {
   },
   env: {
     mapbox_token:
-      "pk.eyJ1IjoiZGl2eWFtMjYwMCIsImEiOiJjbDYwcTZzN3EwMTJ2M2twOWd3cHk2OHNtIn0.D-9pi2Azs-f_8mJEgXheBg",
+      "pk.eyJ1IjoiZmxleG5lcnIiLCJhIjoiY2xhNTRoYzlqMHB5ODN2bzd6OHUyY2tlNSJ9.R2tgvDSbRcYfIm9umAMczA",
   },
 };

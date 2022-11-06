@@ -23,7 +23,7 @@ function MapBox({ filteredResults }) {
   const [selectedLocation, setSelectedLocation] = useState({});
   return (
     <Map
-      mapStyle="mapbox://styles/divyam2600/cl60qo9ra001814mrznkstp3p"
+      mapStyle="mapbox://styles/flexnerr/cla54lhqx000014t3ptasbfvr"
       mapboxAccessToken={process.env.mapbox_token}
       initialViewState={{ ...viewport }}
       onViewportChange={(nextViewport) => setViewport(nextViewport)}
