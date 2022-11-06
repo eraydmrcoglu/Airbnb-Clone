@@ -12,14 +12,8 @@
   <a href="#technologies">Technologies</a> 
 </p>
 
-<div style="display: inline_block" align="center"><br>
-  <img width="400px" height="800px" style="object-fit: contain" src="https://raw.githubusercontent.com/eraydmrcoglu/Uber-Clone/main/assets/homescreen.png" alt="homescreen"/>
-</div>
+![image](https://user-images.githubusercontent.com/75967993/200163950-a6711773-8868-4fb0-b7b0-c1a8e8c73fb6.png)
 
-<div align="center">
-  <a href="#"><img src="https://qr.expo.dev/expo-go?owner=flexnerr&slug=uber&releaseChannel=default&host=exp.host" alt="qr" width="200" height="200" /></a>
-  <a href="#"><img src="https://user-images.githubusercontent.com/99184393/182557606-b36f2540-1260-42bf-b547-ed5832e3615e.png" alt="qr" width="200" height="200" /></a>
-</div>
 
 ---
 
